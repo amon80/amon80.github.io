@@ -25,8 +25,3 @@ A: It's because so I can (hopefully!) avoid spam email.
 #### Q: "What is a public key? Why should I use it to contact you? Can't I send you a normal email?" ####
 
 A: A public key is a part of an asymmetric encryption system. If you use my public key to message me, you can be sure your message will be read only by me. Encrypted emails aren't so hard to use! You can use [Enigmail](https://www.enigmail.net/index.php/en/) in order to send encrypted mail within [Mozilla Thunderbird](https://www.mozilla.org/en-US/thunderbird/#). 
-
-#### Q: "Will comments be available?" ####
-
-A: Sure, just let me figure out how Disqus integration works.
-
