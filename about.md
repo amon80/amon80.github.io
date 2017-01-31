@@ -20,19 +20,13 @@ You can email me at **lazlo93 the-at-symbol gmail the-dot-symbol com** using my 
 
 #### Q: "Why is your email in such a strange format?" ####
 
-A: "It's because so I can (hopefully!) avoid spam email."
+A: It's because so I can (hopefully!) avoid spam email.
 
-#### Q: "Why should I use your public key to contact you? Can't I send you a normal email?" ####
+#### Q: "What is a public key? Why should I use it to contact you? Can't I send you a normal email?" ####
 
-A: "You could, but there are some reason you should avoid this:
-
-1) You can't be sure your email won't be read by our providers.
-
-2) You can't be sure an eventual reply will come from me.
-
-Besides, encrypted emails aren't so hard to use! You can use []() in order to send encrypted mail within Mozilla Thunderbird. "
+A: A public key is a part of an asymmetric encryption system. If you use my public key to message me, you can be sure your message will be read only by me. Encrypted emails aren't so hard to use! You can use [Enigmail](https://www.enigmail.net/index.php/en/) in order to send encrypted mail within [Mozilla Thunderbird](https://www.mozilla.org/en-US/thunderbird/#). 
 
 #### Q: "Will comments be available?" ####
 
-A: "Sure, just let me figure out how Disqus integration works."
+A: Sure, just let me figure out how Disqus integration works.
 
