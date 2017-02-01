@@ -14,7 +14,7 @@ As a computer scientist, my research interests are **Advanced Algorythms**, **So
 
 Recently, I started a [Youtube channel](https://www.youtube.com/channel/UCcK9hLSbkKhlI1azGVPRtXQ) where I try to help people with video tutorials about recipies and wet shaving. Unfortunatly, those tutorials are only in italian for now :(.
 
-You can find my resume (in english) [here]({{site.baseurl}}{% link/assets/files/Mecchia-Marco-CV-English.pdf})
+You can find my resume (in english) [here]({{ site.baseurl }}{% link /assets/files/cv.pdf %})
 
 You can find most of my works on my github page {% include icon-github.html username=site.github_username %}.
 
@@ -29,3 +29,6 @@ A: It's because so I can (hopefully!) avoid spam email.
 #### Q: "What is a public key? Why should I use it to contact you? Can't I send you a normal email?" ####
 
 A: A public key is a part of an asymmetric encryption system. If you use my public key to message me, you can be sure your message will be read only by me. Encrypted emails aren't so hard to use! You can use [Enigmail](https://www.enigmail.net/index.php/en/) in order to send encrypted mail within [Mozilla Thunderbird](https://www.mozilla.org/en-US/thunderbird/#). 
+
+
+
