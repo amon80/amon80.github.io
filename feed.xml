@@ -7,7 +7,7 @@
 {% for post in site.posts %}
 <item>
 <title>{{ post.title | escape }}</title>
-<link>{{ site.url | append: post.url}}</link>
+<link>https://{{ site.url | append: post.url}}</link>
 </item>
 {% endfor %}
 </channel>
