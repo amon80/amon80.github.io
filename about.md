@@ -10,7 +10,11 @@ My name is **Marco Mecchia**, I am a Master Degree student at [University of Sal
 
 This personal blog has been ispired by my collegue [Andrea Solda](https://asolda.github.io/about/), who recently started one using [Hugo](https://github.com/spf13/hugo). I'm using [Jekyll](https://jekyllrb.com/) instead.
 
-As a computer scientist, my research interests are **Advanced Algorythms**, **Social Networks Theory**, **Machine Learning** and **NeuroImaging**. I'm also a big tennis fan and I love every form of cooking, bakery in particular. Recently, I started a [Youtube channel](https://www.youtube.com/channel/UCcK9hLSbkKhlI1azGVPRtXQ) where I try to help people with video tutorials about recipies and wet shaving. Unfortunatly, those tutorials are only in italian for now :(.
+As a computer scientist, my research interests are **Advanced Algorythms**, **Social Networks Theory**, **Machine Learning** and **NeuroImaging**. I'm also a big tennis fan and I love every form of cooking, bakery in particular. 
+
+Recently, I started a [Youtube channel](https://www.youtube.com/channel/UCcK9hLSbkKhlI1azGVPRtXQ) where I try to help people with video tutorials about recipies and wet shaving. Unfortunatly, those tutorials are only in italian for now :(.
+
+You can find my resume (in english) [here]({{site.baseurl}}{% link/assets/files/Mecchia-Marco-CV-English.pdf})
 
 You can find most of my works on my github page {% include icon-github.html username=site.github_username %}.
 
