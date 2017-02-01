@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Some updates"
+date:   2017-02-01 12:35:00 +0100
+categories: updates blog
+---
+
+It's only been a day, but I'm really having fun customizing this blog.
+
+As you can see, now [RSS Feeds] are available, so be sure to subscribe! There are also comments provided by [Disqus], so now you can insult me as much as you like. Ah, and there's also the super cool "Made with Vim" button in the footer now! (A bit poser, but who cares.)
+
+Now all that is left is fill the blog with interesting contents... easier said than done! :D
+
+In the next days, something interesting should appear. Stay tuned!
+
+Marco
+
+
+[RSS Feeds]: http://www.w3schools.com/xml/xml_rss.asp
+[Disqus]: https://disqus.com/
