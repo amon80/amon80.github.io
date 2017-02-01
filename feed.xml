@@ -7,6 +7,8 @@
 <title>Marco's blog</title>
 <link>{{ site.url }}</link>
 <description>{{ site.description }}</description>
+<language>en-us</language>
+<category>Blog</category>
 {% for post in site.posts %}
 <item>
 <title>{{ post.title | escape }}</title>
