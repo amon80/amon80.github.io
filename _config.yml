@@ -16,12 +16,12 @@
 title: Marco's blog
 email: m.mecchia93@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-        Just some thoughts on life as seen by a computer science Student with bakery passion.
+  Just some thoughts written by an idiot with too much free time.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amon80.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: amon80
 youtube_channel: UCcK9hLSbkKhlI1azGVPRtXQ
-disqus_shortname: amon80 
+disqus_shortname: amon80
 
 # Build settings
 markdown: kramdown

@@ -4,12 +4,14 @@ title: About Me
 permalink: /about/
 ---
 
-![My helpful screenshot]({{ site.url }}/assets/pictures/picture.jpg)
+My name is **Marco**, I am a Software Engineer currently living and working in Tokyo, Japan.
 
-My name is **Marco Mecchia**, I am a Software Engineer currently working in [Amazon Spain](https://www.amazon.jobs/en-gb/location/madrid-spain). 
+Writing has always been an hobby of mine. Unfortunately I'm a hardcore pen and paper fan, so keeping a blog has always been difficult for me. Let's see if this time I can keep this blog around for more than 2 blog posts.
 
-As a computer scientist, my interests are **Advanced Algorythms**, **Social Networks Theory**, **Machine Learning**, **NeuroImaging**, **Computer Vision** and **Embedded Systems**. Recently, I've recently started to work on **Service-based architectures**. I'm also a big tennis fan and I love every form of cooking, bakery in particular. 
+Some random bits about me:
 
-I used to host my CV on this website, but recently I've become a bit paranoid about stalkers (with good reason). If for whatever reason you would like a copy of my CV, please email me at **lazlo93 the-at-symbol gmail the-dot-symbol com**.
-
-You can find most of my projects non related to work on my github page {% include icon-github.html username=site.github_username %}.
+- I'm big tennis fan since the advent of the big 4.
+- I love to read. I'm co-host of a book club in Tokyo for international people.
+- I became a Zen Buddhist since July 2024.
+- I love every form of cooking, bakery in particular.
+- I am currently studying Japanese with terrible results.
